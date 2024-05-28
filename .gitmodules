@@ -1,0 +1,9 @@
+[submodule "thirdparty/glew"]
+	path = thirdparty/glew
+	url = git@github.com:nigels-com/glew.git
+[submodule "thirdparty/glad"]
+	path = thirdparty/glad
+	url = git@github.com:Dav1dde/glad.git
+[submodule "thirdparty/EasyGL"]
+	path = thirdparty/EasyGL
+	url = git@github.com:hubenchang0515/EasyGL.git
