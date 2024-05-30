@@ -1,7 +1,6 @@
 #ifndef EASYGL_WIDGET_H
 #define EASYGL_WIDGET_H
 
-#include <EasyGL/EasyGL.h>
 #include <QOpenGLWidget>
 
 class EasyGLWidget : public QOpenGLWidget
